@@ -1,5 +1,5 @@
 
-# Olá! Seja bem-vindo(a) ao meu GitHub 👋
+# Olá! Seja bem-vindo(a) ao meu GitHub 
 
 Sou estudante de Tecnologia da Informação, interessada em desenvolvimento de software e nas possibilidades que a tecnologia oferece para criar soluções e resolver problemas.
 
@@ -7,11 +7,11 @@ Atualmente, estou construindo minha trajetória na área de tecnologia, desenvol
 
 ## 💻 Sobre mim
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
-- 🌐 Interesse em Desenvolvimento Web e Engenharia de Software.
-- ⚙️ Explorando automação de processos e integração de sistemas.
-- 🤖 Interesse em Inteligência Artificial e suas aplicações.
-- 📚 Sempre aprendendo e buscando novos desafios.
+- Estudante de Análise e Desenvolvimento de Sistemas.
+- Interesse em Desenvolvimento Web e Engenharia de Software.
+- Explorando automação de processos e integração de sistemas.
+- Interesse em Inteligência Artificial e suas aplicações.
+- Sempre aprendendo e buscando novos desafios.
 
 ## 🛠️ Tecnologias e ferramentas
 
